@@ -1,0 +1,53 @@
+# Ignore files and folders that are not essential to the project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipynb
+
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build and dist files
+build/
+dist/
+
+# Cache files
+.cache/
+
+# Coverage files
+coverage/
+
+# Dependency files
+yarn.lock
+package-lock.json
+
+# Other files and folders that are not essential to the project
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+*.gz
+*.bz2
+*.tar
+*.tgz
+*.swp
+*.swo
+*.pdf
+*.docx
+*.xlsx
+*.pptx
